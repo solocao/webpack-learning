@@ -1,0 +1,9 @@
+@font-face {
+  font-family: element;
+  src: url('/static/fonts/element-icons.ttf');
+}
+
+div {
+  font-family: element;
+  background-image: url('/static/img/bg.png')
+}
